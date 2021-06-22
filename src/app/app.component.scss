@@ -1,0 +1,112 @@
+.background {
+background-color: #0e0000;
+margin-bottom: 65px;
+
+}
+.tilted {
+transform: skew(-20deg);
+border-right: 9px solid #b36340;
+border-bottom: 9px solid #b36340;
+margin-left: -7px;
+}
+.tilted h6 {
+    padding: 45px 0;
+}
+.tilted h6 .sign h6, .sign button{
+transform: skew(20deg);
+} 
+.nav-item, .tilted h6, .list li{
+font-size: 19px;
+}
+.sign {
+transform: skew(-20deg);
+border-left: 5px solid #b36340;
+padding: 38px 0;
+}
+.sign h6 {
+color: #b36340;
+transform: skew(20deg);
+
+}
+.list li {
+    list-style: none;
+    display: inline-block; 
+    padding: 0 15px;
+}
+.btn1 {
+    border-radius: 0;
+    background-color: #b36340;
+
+}
+.dot1, .dot2, .text-p {
+    letter-spacing: 2px;
+}
+.dot2 {
+    margin-top: -10px;
+}
+.parallalogram {
+    transform: skew(-15deg);
+    z-index: 1;
+    position: relative;
+}
+.stay {
+    color: #b36340;
+}
+.square {
+    transform: skew(-20deg);
+}
+.squar1 {
+    display: inline;
+    margin: 2px;
+    background-color: #d38551;
+    padding: 1px 8px;
+}
+.contact {
+transform: skew(-20deg);
+border-right: 5px solid #b36340;
+padding: 0 0 95px 0;
+display: flex;
+z-index: 1;
+position: relative;
+}
+.social {
+    transform: skew(20deg);
+}
+.social li {
+    background-color: #fff;
+    border-radius: 9px;
+    padding: 3px 1px;
+    display: inline;
+    margin: 8px;
+    
+}
+.social li i {
+    width: 22px;
+    text-align: center;
+}
+.gray{
+    background-color: #1d1717;
+    width: 60%;
+    height: 65px;
+    position: relative;
+    transform: skew(
+20deg
+);
+    bottom: -84px;
+    left: -177px;
+}
+img {
+    width: 85%;
+    height: 326px;
+    padding: 0 35px;
+    position: relative;
+    top: 45px;
+    left: 50px;
+}
+.tilted1 {
+    transform: skew(-20deg);
+    border-left: 9px solid #b36340;
+    border-top: 9px solid #b36340;
+    margin-left: -7px;
+    padding: 70px;
+    }
